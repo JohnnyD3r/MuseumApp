@@ -1,4 +1,4 @@
-# 🏛️ Museum App – UI/UX Design by Giannis
+# 🏛️ Museum App – UI/UX Design by Yannis
 
 Welcome to my design-focused fork of the **Museum App**, a mobile application created as part of a **university project**. The app offers an educational and immersive experience, allowing users to explore animals, dinosaurs, planets, and sculptures through rich visuals and engaging content.
 
