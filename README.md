@@ -56,12 +56,6 @@ This fork is meant to **highlight the design aspect** of the project.
 
 ---
 
-## 🙌 Acknowledgments
-
-Thanks to Rafail for the seamless collaboration and to our university for inspiring this creative educational project.
-
----
-
 ## 📬 Feedback
 
 If you have thoughts or feedback on the design, feel free to reach out. I’m always open to constructive input and collaboration!
