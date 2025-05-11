@@ -16,8 +16,6 @@ As the designer of the Museum App, I was responsible for:
 - Ensuring the app is **accessible, mobile-friendly**, and visually engaging.
 - Collaborating closely with the developer to ensure the **final product reflected the original design vision**.
 
-This project highlights my skills in crafting thoughtful, user-centered mobile interfaces within the constraints of a real-world academic collaboration.
-
 ---
 
 ## 📱 About the App
@@ -55,13 +53,6 @@ Stay tuned for updates as we bring this app closer to its full potential!
 
 All Flutter development and implementation was done by **Rafail**.  
 This fork is meant to **highlight the design aspect** of the project.
-
----
-
-## 🔗 Design Preview
-
-You can view the full UI design in Figma here:  
-**[👉 Figma Link (if public)](https://your-figma-link.com)** *(Replace this with your actual link)*
 
 ---
 
