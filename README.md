@@ -51,7 +51,7 @@ Stay tuned for updates as we bring this app closer to its full potential!
 
 ## 🛠️ Developer Credit
 
-All Flutter development and implementation was done by **Rafail**.  
+All Flutter development and implementation was done by [Rafail](https://github.com/RafailAndreou).  
 This fork is meant to **highlight the design aspect** of the project.
 
 ---
